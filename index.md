@@ -1,6 +1,7 @@
 ---
 title: Free Dependent Dropdowns for Google Sheets
 description: Dependent drop-down lists in Google Sheets for every row and 3+ levels, with automatic cleanup. One free Apps Script file, no INDIRECT formulas.
+image: https://decodedxr.github.io/dependent-dropdowns/assets/cover.png
 ---
 
 # Free Dependent Dropdowns for Google Sheets

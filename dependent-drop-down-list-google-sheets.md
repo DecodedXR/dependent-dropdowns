@@ -1,6 +1,7 @@
 ---
 title: How to make a dependent drop-down list in Google Sheets (every row, any depth)
 description: Create dependent dropdowns in Google Sheets where the second list changes based on the first, for every row and 3+ levels. Free script, no INDIRECT or helper columns.
+image: https://decodedxr.github.io/dependent-dropdowns/assets/cover.png
 ---
 {% raw %}
 
