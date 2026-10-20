@@ -1,0 +1,4 @@
+title: Free Dependent Dropdowns for Google Sheets
+description: Dependent drop-down lists in Google Sheets for every row and 3+ levels. Free Apps Script, no INDIRECT.
+plugins:
+  - jekyll-sitemap
